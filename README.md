@@ -12,5 +12,5 @@ The data used were provided by the professor and represented Amazon sales data. 
 Several queries were done on these two collections of data and and each query was analyzed and optimized through the construction of appropriate indexes (single field index and also compound index).
 
 **Much more information can be found in the report _orlandi_query_optimization.pdf_ (in Italian)**<br>
-![example_query](https://github.com/username/repository/blob/main/images/example.png)
 
+<img src="https://github.com/pietroorlandi/MongoDB-Query-Optimizations/blob/main/images/screen_query_optimization.png" alt="Example of a MongoDB query optimization" width="600" height="400">
